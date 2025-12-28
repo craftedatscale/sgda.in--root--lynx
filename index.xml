@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shreyasi Gopinath Dance Academy</title>
-    <link>http://192.168.0.247:1313/</link>
+    <link>http://100.101.252.59:37101/</link>
     <description>Recent content on Shreyasi Gopinath Dance Academy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>**SGDA** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale).</copyright>
-    <atom:link href="http://192.168.0.247:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://100.101.252.59:37101/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
